@@ -1,5 +1,5 @@
 {
-  "name": "money-manager",
+  "name": "Income-Expense-Tracker",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "~12.1.0-",
     "@angular/router": "~12.1.0-",
     "bulma": "^0.9.3",
+    "lite-server": "^2.6.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
